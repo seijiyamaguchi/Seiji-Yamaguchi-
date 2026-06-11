@@ -1,5 +1,4 @@
-# Seiji-Yamaguchi-
-Grace Reset Website 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
